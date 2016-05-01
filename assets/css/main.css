@@ -2898,6 +2898,14 @@
 		background-position: top left, center center;
 	}
 
+/* MAP */
+
+	#map {
+		background-size: 200px 100px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
 /* Work */
 
 	#work .row.images .image {
@@ -3382,6 +3390,7 @@
 				text-align: center;
 				padding: 3em 10px 3em 10px;
 			}
+			
 
 		/* Header */
 
